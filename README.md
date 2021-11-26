@@ -1,41 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to HotPatcher Documentation
 
-🚀 🐼
+[HotPatcher](https://github.com/hxhb/HotPatcher) is a tool for managing hot update versions and resource packaging. It is used to track changes in the original resources of the project version to create patches. Support resource version management, difference comparison and packaging between versions, support exporting basic package information for multiple platforms, easily cook and package multi-platform Patches, support iterative packaging, rich configuration options, full-featured commandlet support, can be combined with ci/cd platform is integrated.
 
-yes
+>The currently supported engine version is UE4.21-UE4.26. I created a group to discuss UE4 hot update and HotPatcher plug-in issues (QQ group 958363331).
 
-You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Plug-in documentation: [UE4 resource hot update packaging tool HotPatcher](https://imzlp.com/posts/17590/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Video tutorial: [UE4 hot update: HotPatcher plug-in tutorial](https://www.bilibili.com/video/BV1Tz4y197tR/)
 
-### Markdown
+My UOD Hot Update Keynote Speech: [Unreal Open Day2020 Unreal Engine 4 Full Platform Hot Update Solution | lipengzha](https://www.bilibili.com/video/BV1ir4y1c76g)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The series of UE4 hot update articles I wrote can be used as a reference for engineering practice:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [UE4 Hot Update: Demand Analysis and Scheme Design](https://imzlp.com/posts/17371)
+- [UE4 resource packaging tool HotPatcher](https://imzlp.com/posts/17590/)
+- [UE4 Hot Update: Automated Process Based on HotPatcher](https://imzlp.com/posts/10938/)
+- [2020 Unreal Open Day](https://imzlp.com/posts/11043/)
+- [UE4 Hot Update: Split the basic package](https://imzlp.com/posts/13765/)
+- [UE4 Hot Update: Asset Management and Audit Tool](https://imzlp.com/posts/3675)
+- [UE4 Hot Update: Create Shader Patch](https://imzlp.com/posts/5867/)
+- [UE4 Hot Update: Questions & Answers](https://imzlp.com/posts/16895/)
+- [UE Hot Update: Binary Patch Solution for Resources](https://imzlp.com/posts/25136/)
+- [UE Hot Update: Shader Update Strategy](https://imzlp.com/posts/15810/)
+- [UE Hot Update: Reload and Reapply of Config](https://imzlp.com/posts/9028/)
