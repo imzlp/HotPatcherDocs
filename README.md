@@ -8,7 +8,7 @@ Plug-in documentation: [UE4 resource hot update packaging tool HotPatcher](https
 
 Video tutorial: [UE4 hot update: HotPatcher plug-in tutorial](https://www.bilibili.com/video/BV1Tz4y197tR/)
 
-My UOD Hot Update Keynote Speech: [Unreal Open Day2020 Unreal Engine 4 Full Platform Hot Update Solution | lipengzha](https://www.bilibili.com/video/BV1ir4y1c76g)
+My UOD Hot Update Keynote Speech: [Unreal Open Day2020 Unreal Engine 4 Full Platform Hot Update Solution \| lipengzha](https://www.bilibili.com/video/BV1ir4y1c76g)
 
 The series of UE4 hot update articles I wrote can be used as a reference for engineering practice:
 
