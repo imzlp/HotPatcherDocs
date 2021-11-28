@@ -1,8 +1,6 @@
 title: "HotPatcher"
 remote_theme: pmarsceill/just-the-docs
 
-logo: https://imzlp.com/images/favicon-32x32-tilt-brush.png
-
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
