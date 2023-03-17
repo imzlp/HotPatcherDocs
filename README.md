@@ -17,6 +17,7 @@ English Document:[README_EN.md](https://github.com/hxhb/HotPatcher/blob/master/R
 视频教程：[UE4热更新：HotPatcher插件使用教程](https://www.bilibili.com/video/BV1Tz4y197tR/)
 
 我的UOD热更新主题演讲：
+
 - [Unreal Open Day2022 UE热更新的原理与实现 | 查利鹏](https://www.bilibili.com/video/BV1d841187Pt/?zw)
 - [Unreal Open Day2020 虚幻引擎4全平台热更新方案 | 查利鹏](https://www.bilibili.com/video/BV1ir4y1c76g)
 
@@ -49,8 +50,10 @@ English Document:[README_EN.md](https://github.com/hxhb/HotPatcher/blob/master/R
 ![](https://img.imzlp.com/imgs/zlp/picgo/2021/20220526194731.png)
 
 **应用项目**
+
 |                              QQ                              |                     Apex Legends Mobile                      | MOSSAI 元宇宙 |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------: |
 | <img src="https://img.imzlp.com/imgs/zlp/picgo/2022/202207280953994.png" height="160" width="160" /> | <img src="https://img.imzlp.com/imgs/zlp/picgo/2022/202207280956642.webp" height="160" width="160" /> | <img src="https://img.imzlp.com/imgs/zlp/picgo/2021/20220607171033.png" height="160" width="160" /> |
+
 
 HotPatcher在大量的UE项目中使用，是目前UE社区中最流行的热更新工具。
